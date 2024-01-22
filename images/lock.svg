@@ -1,0 +1,30 @@
+<svg width="36" height="42" viewBox="0 0 36 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="36" height="42" fill="#E5E5E5"/>
+<g id="Desktop" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="6366" transform="translate(-1222 -7)" fill="white"/>
+<path id="Rectangle" d="M-1222 -7H218V793H-1222V-7Z" fill="white"/>
+<g id="Frame">
+<g id="Frame_2">
+<path id="Rectangle_2" d="M-1222 -7H218V49H-1222V-7Z" fill="white"/>
+<g id="Frame_3">
+<rect width="1064" height="56" transform="translate(-1034 -7)" fill="white"/>
+<g id="Frame_4">
+<g id="Frame_5">
+<g id="Group 2">
+<path id="Vector" d="M12.5179 16.4C12.5179 14.9059 13.1115 13.473 14.168 12.4165C15.2244 11.36 16.6573 10.7665 18.1514 10.7665C19.6455 10.7665 21.0784 11.36 22.1349 12.4165C23.1914 13.473 23.7849 14.9059 23.7849 16.4" stroke="black" stroke-width="2" stroke-miterlimit="20"/>
+<g id="Group">
+<path id="Vector_2" d="M25.534 31.976H10.769V17.211H25.534V31.976Z" stroke="black" stroke-width="2" stroke-miterlimit="20"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="6366" fill="white" transform="translate(-1222 -7)"/>
+</clipPath>
+</defs>
+</svg>

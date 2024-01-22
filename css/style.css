@@ -1,0 +1,256 @@
+header {
+    padding: 15px 0;
+}
+
+.logo {
+    width: 80px;
+    height: 25px;
+}
+
+header a {
+    color: #1C1B1B;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-decoration: none;
+    margin-right: 28px;
+}
+
+.banner {
+    background: #F0EFEB;
+    margin-bottom: 40px;
+}
+
+.banner-description h2 {
+    color: #000;
+    font-family: Roboto;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 40px;
+}
+
+.banner-description p {
+    color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 30px;
+}
+
+button {
+    width: 129px;
+    padding: 8px 0;
+    border-radius: 100px;
+    border: 1px solid #000;
+    background: #000;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.cards-summary img {
+    max-height: 430px;
+    max-width: 315px;
+    margin: auto;
+}
+
+.cards-summary h3,
+.interview-cards h3 {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 30px;
+}
+
+.cards-summary p {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+.card h5 {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.card p {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.card a {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.card-description1,
+.card-description3 {
+    background: rgba(204, 204, 204, 0.30);
+}
+
+.card-description2 {
+    background: rgba(204, 204, 204, 0.60);
+}
+
+.card-description p {
+    color: #000;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.card-description h3 {
+    color: #000;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.card-description a {
+    color: #000;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.card-description img {
+    max-height: 525px;
+    max-width: 385px;
+}
+
+.features span {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.circle {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    background: grey;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.card:nth-child(1) .circle {
+    background: #21F7EC;
+}
+
+.card:nth-child(2) .circle {
+    background: #33D3BC;
+}
+
+.card:nth-child(3) .circle {
+    background: #18A5C6;
+}
+
+.card:nth-child(4) .circle {
+    background: #D38F62;
+}
+
+.card:nth-child(5) .circle {
+    background: #F94C43;
+}
+
+.card:nth-child(6) .circle {
+    background: #D399FF;
+}
+
+.features h4 {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0;
+}
+
+.interview-cards h5,
+.interview-cards p,
+.interview-cards a {
+    margin-bottom: 30px;
+}
+
+.interview-cards {
+    position: relative;
+}
+
+.interview-cards::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 55%;
+    background: rgba(225,225,225,0.3);
+    bottom: 0;
+    left: 0;
+}
+
+footer {
+    margin-top: 40px;
+    background: #020202;
+}
+
+footer a,
+p {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 10px;
+}
+
+footer img {
+    margin-right: 20px;
+}
